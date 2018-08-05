@@ -1,0 +1,11 @@
+Part Number,MFG,Description,Quantity,Supplier,Supplier Part Number,Cost
+S-80836CNY-B2-U,ABLIC,IC VOLT DETECTOR 3.6V TO-92,1,Digikey,1662-1815-ND,$0.80
+WP56BSRD/B ,Kingbright,Red 640nm LED Indication Blinking,1,Digikey,754-1883-ND ,$1.06
+,Various,1K ohm Resistor 1/4 Watt 10%,1,Various,,
+,Various,680 ohm Resistor 1/4 Watt 10%,1,Various,,
+,Various,Reed Switch N/C N/O ,1,Amazon,B0735BP1K4 ,$4.49
+,Various,JST XH Connector Male/Female,1,Various,,
+,Elecrow,PCB,1,Elecrow,,$4.90
+DP8080,Seeed Studio,Sick Of Beige Basic Case,1,Seeed Studio,DP8080,$3.00
+,,,,,,
+,,,,,Total,$14.25
