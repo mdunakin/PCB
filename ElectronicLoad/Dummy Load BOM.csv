@@ -1,0 +1,14 @@
+Part Number,Ref Des,MFG,Description,Source,Source Part Number,Qty,Cost,Total Cost
+LM358PE4,IC2,TI,IC OPAMP GP 700KHZ 8DIP,Digi-Key,296-36107-5-ND ,1,$0.40,$0.40
+AC07000001008JAC00,R3,Vishay BC,RES 1 OHM 7W 5% AXIAL,Digi-Key,PPC7W1.0CT-ND,1,$0.93,$0.93
+1984617,X1,Phoenix Contact,CONN TERM BLOCK T/H 2POS 3.5MM,Digi-Key,277-1721-ND,1,$0.46,$0.46
+,"R1,R2",,10K 1/4 W Through Hole Resistor,various,,2,$0.00,$0.00
+,R4,,2K 1/4W Through Hole Resistor,various,,1,$0.00,$0.00
+,LED1,,5MM Red Led,various,,1,$0.00,$0.00
+IRF510PBF,,Vishay Siliconix,MOSFET N-CH 100V 5.6A TO-220AB,Digi-Key,IRF510PBF-ND,1,$1.07,$1.07
+,,,Heatsink,various,,1,$0.00,$0.00
+7609-1616-0,ADJ,beckman industries,helipot Multi-turn,Mendelson's Electronics,,1,$7.50,$7.50
+,PWR,,JST-XH 2 Pin,various,,1,$0.00,$0.00
+PCB,,All Circuits,50mm X 50mm See gerbers,All Circuits,Custom,1,$2.13,$2.13
+,,,,,,,,
+,,,,,,,total,$12.49
